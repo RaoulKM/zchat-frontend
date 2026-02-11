@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@plugin "daisyui" {
+    themes: all;
+}
+
+@font-face {
+    font-family: MontSerrat;
+    src: url(/fonts/Montserrat-Regular.ttf) format("truetype");
+}
+
+::-webkit-scrollbar{
+    display: none !important;
+}
+
+/* *{
+    font-family: MontSerrat, sans-serif !important;
+} */
