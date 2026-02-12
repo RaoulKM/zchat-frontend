@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const images = ["./image.png", "./image.png", "./image.png"];
+const images = ["./image.png", "./i1.png", "./i2.png"];
 
 const AuthImageCarousel = ({
   title,
